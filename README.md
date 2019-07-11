@@ -17,9 +17,3 @@
 7.BuilderProject:建造者模式Demo
 
 8.FacadeProject:外观模式Demo
-
-
-==============================
-
-添加子仓库 
-
